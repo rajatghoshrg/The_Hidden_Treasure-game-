@@ -9,5 +9,5 @@ Game Features:
 5. Starts with a mysterious key in your pocket
 
 Technologies Used:
-Python
-Terminal / Command Line Interface
+-Python
+-Terminal / Command Line Interface
